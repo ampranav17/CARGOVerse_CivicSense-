@@ -15,7 +15,7 @@
 
 ## Overview
 
-ContainerVerse is a full-stack autonomous logistics platform that connects vessels, ports, and rail via a real-time AI backbone — replacing fragmented manual workflows with a single, self-healing ecosystem powered by **Claude Sonnet AI**.
+CARGOVerse is a full-stack autonomous logistics platform that connects vessels, ports, and rail via a real-time AI backbone — replacing fragmented manual workflows with a single, self-healing ecosystem powered by **Claude Sonnet AI**.
 
 | | |
 |---|---|
@@ -268,7 +268,7 @@ REACT_APP_MAPS_KEY=              # Optional — Google Maps Embed API key
 
 ---
 
-*ContainerVerse — Autonomous. Intelligent. Resilient.*  
+*CARGOVerse — Autonomous. Intelligent. Resilient.*  
 *Built with FastAPI · React 18 · Claude Sonnet · GDELT · GDACS · DB Cargo · JR Freight*
 
 <img width="801" height="380" alt="image" src="https://github.com/user-attachments/assets/49dd5b81-5cb8-4c16-a9f1-5696f4498276" />

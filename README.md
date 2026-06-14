@@ -1,4 +1,4 @@
-# ContainerVerse 🚢
+# CARGOVerse 🚢
 
 **Autonomous Intermodal Logistics Ecosystem**
 

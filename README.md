@@ -271,3 +271,4 @@ REACT_APP_MAPS_KEY=              # Optional — Google Maps Embed API key
 *ContainerVerse — Autonomous. Intelligent. Resilient.*  
 *Built with FastAPI · React 18 · Claude Sonnet · GDELT · GDACS · DB Cargo · JR Freight*
 
+<img width="801" height="380" alt="image" src="https://github.com/user-attachments/assets/49dd5b81-5cb8-4c16-a9f1-5696f4498276" />
